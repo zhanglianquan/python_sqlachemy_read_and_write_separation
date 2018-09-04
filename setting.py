@@ -12,7 +12,7 @@ class Setting(object):
 
     # 从库
     # 用户名：zhang, 密码：123456
-    MYSQL_SLAVE_URL = "mysql://zhang:123456@192.168.10.168:3306/test_master_slave?charset=utf8"
+    MYSQL_SLAVE_URL = "mysql://zhang:123456@192.168.11.8:3306/test_master_slave?charset=utf8"
 
 
     
